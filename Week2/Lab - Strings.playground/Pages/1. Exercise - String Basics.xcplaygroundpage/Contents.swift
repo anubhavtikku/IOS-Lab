@@ -25,4 +25,4 @@ else
 {
     print("It's not as empty as I thought")
 }
-//: page 1 of 5  |  [Next: Exercise - Concatenation and Interpolation](@next)
+//: page 1 of 5  |  [Next: Exercise - Concatenation and Interpolation](@nextlnp)
